@@ -15,5 +15,9 @@ npm run serve
 npm run build
 ```
 
+```
+npm run backend to start json-server folow aour db.json file with store all of our tasks
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
