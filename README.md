@@ -16,7 +16,7 @@ npm run build
 ```
 
 ```
-npm run backend to start json-server folow aour db.json file with store all of our tasks
+npm run backend to start json-server folow our db.json file witch contains all of our tasks
 ```
 
 ### Customize configuration
